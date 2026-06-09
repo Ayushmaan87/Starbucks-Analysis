@@ -80,4 +80,4 @@ Skills Demonstrated
 Short GitHub Description
 
 Interactive Power BI dashboard analyzing Starbucks beverages, nutritional values, caffeine content, calorie trends, and category performance through dynamic visualizations and KPI reporting.
-![Dashboard preview]
+![Dashboard preview](https://github.com/Ayushmaan87/Starbucks-Analysis/blob/main/Visible%20starbucks.png)
